@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (large files)
+data/*.csv
+data/*.zip
+data/*.gz
+
+# Model files (large)
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# Outputs (generated at runtime)
+outputs/figures/*.png
+outputs/figures/*.jpg
+outputs/metrics/*.csv
+outputs/predictions/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
