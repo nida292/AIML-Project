@@ -1,6 +1,6 @@
 {
   "model_name": "Decision Tree",
-  "training_date": "2026-11-10T09:50:19.238470+00:00",
+  "training_date": "2026-11-17T07:51:16.454177+00:00",
   "dataset": "RT-IoT2022",
   "target_column": "Attack_type",
   "features_numerical": [
