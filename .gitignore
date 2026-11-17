@@ -28,7 +28,7 @@ data/*.zip
 data/*.gz
 
 # Model files (large)
-models/*.joblib
+# models/*.joblib
 models/*.pkl
 models/*.pickle
 
